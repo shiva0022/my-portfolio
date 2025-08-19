@@ -21,7 +21,6 @@ export default {
       },
       backgroundImage: {
         'texture-1': "url('/background-texture-1.png')",
-        'texture-2': "url('/background-texture-2.png')",
       },
       backdropBlur: {
         'portfolio': '100px',

@@ -140,7 +140,7 @@ const Hero = () => {
               textAlign: "left",
             }}
           >
-            Jaspinder Singh
+            Jakka Shiva
           </div>
 
           {/* Role Tags Container */}
